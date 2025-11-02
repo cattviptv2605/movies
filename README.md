@@ -1,1 +1,1 @@
-# Movie.m3u
+# Movie.m3u8
