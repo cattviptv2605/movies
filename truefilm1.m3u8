@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-referrer=https://live1.stream.liveplayback.net/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://live1.stream.liveplayback.net/dookeela/truefilm1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSwgNzo1NzoyNyBBTSZoYXNoX3ZhbHVlPW1KV25GV2tZOVhUOU9ZR3Z0SGZwVUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1lNWU4OGZiMjVlNjAyNWE2YmZlOGNmYWE1OTkyMzAwYSZjaGVja2lwPXRydWUmc3RybV9sZW49MTg=
+http://103.114.203.129:8080/live/ott168/ott168/67.m3u8
