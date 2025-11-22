@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-referrer=https://dklxais.online/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-https://dklxais.online/dookeela/truemoviehits/chunks.m3u8?nimblesessionid=80958726&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSwgNzo1ODozOSBBTSZoYXNoX3ZhbHVlPWpDdjdLWTVGQ0wzdk5CeE1yM1d1d2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1lNWU4OGZiMjVlNjAyNWE2YmZlOGNmYWE1OTkyMzAwYSZjaGVja2lwPXRydWUmc3RybV9sZW49MjI=
+http://103.114.203.129:8080/live/ott168/ott168/66.m3u8
