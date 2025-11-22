@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
 http://49.0.64.96:8007/PING
